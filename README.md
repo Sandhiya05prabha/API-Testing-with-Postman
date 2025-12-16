@@ -29,14 +29,18 @@ Overall, this project provides hands-on experience in API testing concepts such 
 All Users Response
 ![Image](https://github.com/user-attachments/assets/fc9b7c4a-6d75-49d5-a1f4-5b20bc29831d)
 
+
 Single User Response 
 ![Image](https://github.com/user-attachments/assets/8e6d9f9d-df77-4864-a331-bbc2f7edf88c)
+
 
 Invalid User response 
 ![Image](https://github.com/user-attachments/assets/6314fea9-b005-4ba0-ab11-e7f0be279468)
 
+
 Create User response 
 ![Image](https://github.com/user-attachments/assets/3afd0921-8e97-4886-8087-3496eb117bf0)
+
 
 Delete User response 
 ![Image](https://github.com/user-attachments/assets/c35427a9-9535-4bb0-9d35-2b9ca8b96645)
