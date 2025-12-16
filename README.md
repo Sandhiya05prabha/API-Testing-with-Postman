@@ -23,3 +23,6 @@ The project also includes a POST request to create a new user. This request vali
 Additionally, a DELETE request is used to validate resource removal functionality. This helps in understanding how APIs handle delete operations and return appropriate responses.
 
 Overall, this project provides hands-on experience in API testing concepts such as authentication, data retrieval, request methods (GET, POST, DELETE), response validation, and status code verification using Postman. This task improves understanding of RESTful APIs and basic API testing workflows.
+
+**OUTPUT**
+
