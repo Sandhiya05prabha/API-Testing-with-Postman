@@ -1,1 +1,8 @@
-# API-Testing-with-Postman
+**API Testing with Postman**
+**COMPANY** : CODTECH IT SOLUTIONS 
+**NAME** :    SANDHIYA P
+**INTERN ID**:CT04DR2320
+**DOMAIN**:   SOFTWARE TESTING 
+**DURATION**: 4 WEEKS 
+**MENTOR**:   NEELA SANTHOSH 
+**DESCRIPTION**: 
